@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ed904055.css",
+    "main.js": "/static/js/main.ef70df06.js",
+    "static/media/card10.jpg": "/static/media/card10.073b53c0f51811d7a037.jpg",
+    "static/media/uniform3.jpg": "/static/media/uniform3.332169c53f932057808f.jpg",
+    "static/media/backk3.jpg": "/static/media/backk3.328e054dbf82b1f267a0.jpg",
+    "static/media/a2.jpg": "/static/media/a2.5e5a54567c28de806c5d.jpg",
+    "static/media/backk7.jpg": "/static/media/backk7.702bd653b1a49ba4f3c2.jpg",
+    "static/media/backk1.jpg": "/static/media/backk1.931671f761ca3662271f.jpg",
+    "static/media/backk6.jpg": "/static/media/backk6.6a9946e5fa4bbb31d56e.jpg",
+    "static/media/back1.jpg": "/static/media/back1.07f2adedcd363d7e6e76.jpg",
+    "static/media/backk2.jpg": "/static/media/backk2.c6e24290f2778ef34e35.jpg",
+    "static/media/backk5.jpg": "/static/media/backk5.d8db1dead65e8c2a2de5.jpg",
+    "static/media/uniform1.jpg": "/static/media/uniform1.b13a0f47b33a656467f6.jpg",
+    "static/media/about.jpg": "/static/media/about.b03f4b2e0a9c582fa342.jpg",
+    "static/media/football.jpeg": "/static/media/football.ed08ef8170bb3efd3647.jpeg",
+    "static/media/cinema2.jpeg": "/static/media/cinema2.aeacae40b5a41e82868a.jpeg",
+    "static/media/card6.jpg": "/static/media/card6.4dba7612fae2a1907c03.jpg",
+    "static/media/kidy area1.jpeg": "/static/media/kidy area1.2245cf915a48bbf7967a.jpeg",
+    "static/media/logo22.jpeg": "/static/media/logo22.1be5824d71e093d9bb97.jpeg",
+    "static/media/cinema.jpeg": "/static/media/cinema.9021a8b505705c49ad9e.jpeg",
+    "static/media/acting.jpeg": "/static/media/acting.d8c27f5cda19e4fde8bc.jpeg",
+    "static/media/food.jpeg": "/static/media/food.606c4ae40f4e246d3104.jpeg",
+    "index.html": "/index.html",
+    "main.ed904055.css.map": "/static/css/main.ed904055.css.map",
+    "main.ef70df06.js.map": "/static/js/main.ef70df06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed904055.css",
+    "static/js/main.ef70df06.js"
+  ]
+}
